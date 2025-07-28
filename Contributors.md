@@ -1129,3 +1129,4 @@
 - [YahiaAbdeldjalilBenyahia](https://github.com/YahiaAbdeldjalilBenyahia)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Santhosh Kumar Karthikeyan](https://github.com/santhosh-kumar-karthikeyan)
+- [Mohd Affan Tarique](https://github.com/affantarique)
